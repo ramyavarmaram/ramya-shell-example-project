@@ -12,3 +12,4 @@ set -o pipefail
 x=a+b+c
 z=o-e
 h=1+2
+w=1-2-3
