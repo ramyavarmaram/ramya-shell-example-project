@@ -10,3 +10,5 @@ set -o pipefail
 
 #I am writing addition functionality
 x=a+b+c
+z=o-e
+h=1+2
