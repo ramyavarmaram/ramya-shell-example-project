@@ -1,2 +1,3 @@
-echo "echo \$((10/20))">>calculator.sh
-
+#!/bin/bash
+x=a+b
+z=a-b_c
